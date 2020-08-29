@@ -1,0 +1,63 @@
+{
+    "title": "سلام من نگین عشقی پور هستم",
+    "subtitle": "برنامه نویس سمت کلاینت | کارشناس شیرپوینت",
+    "links": {
+        "instagram": "https://www.instagram.com/negineshghipour/",
+        "linkedin": "https://www.linkedin.com/in/negin-eshghipour-5952a094/"
+    },
+    "sections": [
+        {
+            "title": "درباره من",
+            "items": [
+                {
+                    "type": "p",
+                    "content": "من دو سال و سه ماه در شرکت رهیاب وابسته به بانک آینده فعالیت نمودم"
+                },
+                {
+                    "type": "p",
+                    "content": "طی این مدت به برنامه نویسی سمت کلاینت در شیرپوینت مشغول بوده و  با فریم ورک های جاوا اسکریپت و جی کوئری کار کردم  "
+                },
+                {
+                    "type": "p",
+                    "content": "پروژه های زیادی از جمله پروژه سامانه انتقال سپرده، سامانه مدیریت قراردادها، سامانه اعطای تسهیلات و ... را انجام دادم"
+                }
+            ]
+        },
+        {
+            "title": "مهارت ها",
+            "items": [
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/react.png",
+                        "title": "React"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/javascript.png",
+                        "title": "Javascript"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/html.png",
+                        "title": "HTML"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/css.png",
+                        "title": "CSS"
+                    }
+                }
+            ]
+        }
+    ],
+    "icons": {
+        "down": "images/down.png"
+    }
+}

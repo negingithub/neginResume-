@@ -1,0 +1,17 @@
+.first {
+    background-color: #9c556f;
+    color: white;
+}
+
+.icons-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon {
+    margin: 10px;
+    background-color: rgb(219, 213, 213);
+    border-radius: 10px;
+}

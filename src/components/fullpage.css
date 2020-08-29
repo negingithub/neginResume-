@@ -1,0 +1,10 @@
+.fullPage{
+    height: 100vh;
+    widows: 100vw;
+    display: flex;
+    flex:auto;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+  }
+  
